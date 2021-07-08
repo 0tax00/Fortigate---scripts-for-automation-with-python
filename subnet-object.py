@@ -6,7 +6,7 @@ Script to create subnet objects.
 Mode of use:
 
 1- Insert in the variable "subnet" the address / mask of the object respecting the python syntax.
-2- After that save the script, run it, get its output and just copy it to fortify through the CLI.
+2- After that save the script, run it, get its output and just copy it to fortigate through the CLI.
 '''
 
 subnet = ('teste','teste')
