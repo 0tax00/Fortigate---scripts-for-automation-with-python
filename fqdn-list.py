@@ -13,6 +13,7 @@ Mode of use:
 fqdn = ('teste','teste')
 As = '"'
 print("config firewall address")
+
 for address in fqdn:
     print(f"\nedit {As}{address}{As}\nset color 18\nset type fqdn",
     f"\nset fqdn {As}{address}{As}\nnext")
