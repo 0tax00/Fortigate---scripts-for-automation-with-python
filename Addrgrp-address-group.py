@@ -12,8 +12,9 @@ Mode of use:
 
 member = ('teste','teste')
 grp = 'edit Acesso_PowerBI'
-As = '"'
+a = '"'
 print(f'config firewall addrgrp \n{grp}')
+
 for address in member: 
-    print(f"\nappend member {As}{address}{As}")
+    print(f"\nappend member {a}{address}{a}")
 print("\nend")
