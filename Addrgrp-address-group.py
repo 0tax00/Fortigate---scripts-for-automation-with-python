@@ -11,7 +11,7 @@ Mode of use:
 '''
 
 member = ('teste','teste')
-grp = 'edit Acesso_PowerBI'
+grp = 'edit group_name'
 a = '"'
 print(f'config firewall addrgrp \n{grp}')
 
