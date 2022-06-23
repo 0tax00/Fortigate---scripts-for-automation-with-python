@@ -19,7 +19,7 @@ Mode of use:
 - Insert in the variable "fqdn" the name of each object respecting the python syntax.
 - After that save the script, run, take your output and just copy it to fortigate through the CLI.
 
-#### 3- subnet.py
+#### 3- [subnet.py](subnet-object.py)
 
 #### Script to create subnet objects.
 
