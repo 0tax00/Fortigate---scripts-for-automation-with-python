@@ -12,7 +12,7 @@ Mode of use:
 
 #### 2- fqdn.py
 
-##### Script to create fqdn objects.
+#### Script to create fqdn objects.
 
 Mode of use:
 
