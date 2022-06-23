@@ -1,6 +1,6 @@
 ### Instructions
 
-#### 1- addrgrp.py
+#### 1- [addrgrp.py](Addrgrp-address-group.py)
 
 #### Script for adding objects to a Address Group
 
@@ -10,7 +10,7 @@ Mode of use:
 - Insert the address group in the "grp" variable
 - After that save the script, run, take your output and just copy it to fortigate through the CLI.
 
-#### 2- fqdn.py
+#### 2- [fqdn.py](fqdn-list.py)
 
 #### Script to create fqdn objects.
 
